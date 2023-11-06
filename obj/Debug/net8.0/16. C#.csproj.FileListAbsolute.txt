@@ -12,3 +12,4 @@ H:\16. C#\obj\Debug\net8.0\refint\16. C#.dll
 H:\16. C#\obj\Debug\net8.0\16. C#.pdb
 H:\16. C#\obj\Debug\net8.0\16. C#.genruntimeconfig.cache
 H:\16. C#\obj\Debug\net8.0\ref\16. C#.dll
+H:\16. C#\obj\Debug\net8.0\16. C#.sourcelink.json
