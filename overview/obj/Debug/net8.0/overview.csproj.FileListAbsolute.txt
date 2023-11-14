@@ -1,0 +1,15 @@
+H:\16. C#\overview\bin\Debug\net8.0\overview.exe
+H:\16. C#\overview\bin\Debug\net8.0\overview.deps.json
+H:\16. C#\overview\bin\Debug\net8.0\overview.runtimeconfig.json
+H:\16. C#\overview\bin\Debug\net8.0\overview.dll
+H:\16. C#\overview\bin\Debug\net8.0\overview.pdb
+H:\16. C#\overview\obj\Debug\net8.0\overview.GeneratedMSBuildEditorConfig.editorconfig
+H:\16. C#\overview\obj\Debug\net8.0\overview.AssemblyInfoInputs.cache
+H:\16. C#\overview\obj\Debug\net8.0\overview.AssemblyInfo.cs
+H:\16. C#\overview\obj\Debug\net8.0\overview.csproj.CoreCompileInputs.cache
+H:\16. C#\overview\obj\Debug\net8.0\overview.sourcelink.json
+H:\16. C#\overview\obj\Debug\net8.0\overview.dll
+H:\16. C#\overview\obj\Debug\net8.0\refint\overview.dll
+H:\16. C#\overview\obj\Debug\net8.0\overview.pdb
+H:\16. C#\overview\obj\Debug\net8.0\overview.genruntimeconfig.cache
+H:\16. C#\overview\obj\Debug\net8.0\ref\overview.dll
