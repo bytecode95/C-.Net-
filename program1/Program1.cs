@@ -1,10 +1,10 @@
 //Primitive Data types
 //varaibles --- a name given to a storage location in memory
 //constant --- an immutable value
-using System;
 
 
-namespace Varibles
+
+namespace Variables
 {
     class Program
     {

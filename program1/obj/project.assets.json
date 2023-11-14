@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\16. C#\\16. C#.csproj",
+      "projectUniqueName": "H:\\16. C#\\program1\\16. C#.csproj",
       "projectName": "16. C#",
-      "projectPath": "H:\\16. C#\\16. C#.csproj",
+      "projectPath": "H:\\16. C#\\program1\\16. C#.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "H:\\16. C#\\obj\\",
+      "outputPath": "H:\\16. C#\\program1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
